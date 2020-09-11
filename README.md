@@ -1,26 +1,26 @@
 # Laravel loans
 A simple platform to make loans
 
-## MODULES
+# MODULES
 
-# Dashboard
+## Dashboard
 
-# Monthly Summary (Beta)
+## Monthly Summary (Beta)
 
-# Information
+## Information
 
-# Lonas
+## Lonas
 
-# Activities
+## Activities
 
-# Companies
+## Companies
 
-# Users
+## Users
 
-# Deposits
+## Deposits
 
-# Withdrawals
+## Withdrawals
 
-# Activity Types
+## Activity Types
 
 
