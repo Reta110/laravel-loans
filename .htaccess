@@ -1,0 +1,7 @@
+# Use PHP71 as default
+AddHandler application/x-httpd-php71 .php
+# BEGIN custom php.ini PHP71
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home3/reta110/public_html/tobankgo.tk/tobankgo.tk
+</IfModule>
+# END custom php.ini
